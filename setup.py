@@ -33,4 +33,4 @@ setup(
     entry_points={
         "console_scripts": ["trove-classifiers=trove_classifiers.__main__:cli"],
     },
-)
+) 
